@@ -1,0 +1,7 @@
+numpy
+tensorflow
+librosa
+aiofiles
+fastapi
+pydantic
+uvicorn
