@@ -5,3 +5,5 @@ aiofiles
 fastapi
 pydantic
 uvicorn
+python_speech_features
+python-multipart

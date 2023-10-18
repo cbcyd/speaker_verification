@@ -1,7 +1,6 @@
 # Importing required libraries
 from fastapi import FastAPI, UploadFile, File
 import aiofiles
-from pydub import AudioSegment
 from os.path import isfile
 from modules.audio import NUM_FRAMES, SAMPLE_RATE, read_mfcc, sample_from_mfcc
 from modules.model_evaluation import run_user_evaluation
